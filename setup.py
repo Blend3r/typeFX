@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='typeFX',  # The name of your package
-    version='0.1.0',  # The version of your package
+    version='0.1.2',  # The version of your package
     description='A package with a typing effect and sound',  # Short description
-    long_description='A Python package that creates a typing effect with sound. It uses Pygame to play a sound effect each time a key is typed.', # Long description
+    long_description='A Python package that creates a typing effect with sound. It uses Pygame to play a sound effect each time a key is typed.',
     long_description_content_type='text/markdown', # The type of content in the long description
     author='Diego Escalante',  # Add your name or your organization's name
     author_email='3dpr1nt3rb0y@gmail.com',  # Add your email for contact
